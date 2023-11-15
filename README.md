@@ -1,2 +1,5 @@
 # logYourSelf
-Cli self management tool
+A cli self management tool
+
+
+how to work? I don't know
